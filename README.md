@@ -2,7 +2,7 @@
 
 Virtualenv activator that you don't source, it just execs its argv (or $SHELL)
 
-Inspired by [this excellent gist by datagrok][datagrok-gist] that explained why `bin/activate` is wrong that I've seen years ago and lost the link to it.
+Inspired by [this excellent gist by datagrok][datagrok-gist] that explained why `bin/activate` is wrong.
 
 ## Installing
 

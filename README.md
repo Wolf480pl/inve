@@ -18,9 +18,18 @@ but you do you
 
 Don't source it, just run it like you would run `sudo` or `ssh`
 
-## How do I deactivate?
+To deactivate, use Ctrl+D, or just `exit`, just like you would exit `sudo` or `ssh`
 
-Ctrl+D, or just `exit`, just like you would exit `sudo` or `ssh`
+
+```console
+$ virtualenv3 my-venv
+$ my-venv/bin/inve
+$ which python
+.../my-venv/bin/python
+$ exit
+$ which python
+/usr/bin/python
+```
 
 ## It doesn't show venv name in the prompt
 

@@ -1,6 +1,9 @@
 # inve
 Virtualenv activator that you don't source, it just execs its argv (or $SHELL)
 
+Inspired by some blogpost (or was it a github gist?) that explained why `bin/activate` is wrong that I've seen years ago and lost the link to it.
+If you're the author of that post, please reach out so that I can give you a credit.
+
 ## Installing
 
 idk, what I did is:
